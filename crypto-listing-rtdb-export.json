@@ -9,21 +9,6 @@
       "image": "https://koinbx.com/assets/img/NewUI/DownGraph.svg",
       "last_price": 6061771.65,
       "one_day_change": -2.71
-    },
-    "FPS_INR": {
-      "image": "https://koinbx.com/assets/img/NewUI/UpGraph.svg",
-      "last_price": 4.44,
-      "one_day_change": 0
-    },
-    "ISLM_INR": {
-      "image": "https://koinbx.com/assets/img/NewUI/DownGraph.svg",
-      "last_price": 4.259,
-      "one_day_change": -0.02
-    },
-    "ZBU_INR": {
-      "image": "https://koinbx.com/assets/img/NewUI/UpGraph.svg",
-      "last_price": 413.248,
-      "one_day_change": 1.95
     }
   }
 }
